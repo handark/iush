@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie los valores de estos atributos para modificar la información
-// asociada con un ensamblado.
+// asociada a un ensamblado.
 [assembly: AssemblyTitle("IntranetIush")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
@@ -14,13 +14,13 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// Si ComVisible se establece en False, los componentes COM no verán los 
+// Si ComVisible se establece en false, los componentes COM no verán los 
 // tipos de este ensamblado. Si necesita obtener acceso a un tipo de este ensamblado desde 
-// COM, establezca el atributo ComVisible en True en este tipo.
+// COM, establezca el atributo ComVisible en true en este tipo.
 [assembly: ComVisible(false)]
 
-// El siguiente GUID sirve como ID de typelib si este proyecto se expone a COM
-[assembly: Guid("4d3e30ed-b73c-4dc5-9b72-cc57057b400c")]
+// El siguiente GUID es para el Id. typelib cuando este proyecto esté expuesto a COM
+[assembly: Guid("6246acc8-d274-4d62-aa2d-0dc2fdb46541")]
 
 // La información de versión de un ensamblado consta de los siguientes cuatro valores:
 //
