@@ -1,11 +1,11 @@
 var paths = {
-  html_dir: 'html/',
+  html_dir: 'assets/',
 
   js_src:   'javascripts/',
-  js_dest:  'html/assets/javascripts/',
+  js_dest:  'assets/javascripts/',
 
   css_src:  'styles/',
-  css_dest: 'html/assets/stylesheets/'
+  css_dest: 'assets/stylesheets/'
 }
 
 module.exports = function(grunt) {
@@ -33,7 +33,7 @@ module.exports = function(grunt) {
   /*  Register tasks  */
   
   // Default task.
-  grunt.registerTask('default', ['coffee:compile', 'concat:build', 'uglify:minify', 'less:build', 'cssmin:minify']);
+  grunt.registerTask('default', ['less:build', 'cssmin:minify']);
 
   grunt.registerTask('build-project-sass', ['coffee:compile', 'concat:build', 'uglify:minify', 'sass:build', 'cssmin:minify']);
 
