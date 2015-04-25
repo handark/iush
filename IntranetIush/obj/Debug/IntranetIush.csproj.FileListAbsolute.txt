@@ -1,0 +1,5 @@
+C:\Users\Jose\git\iush\IntranetIush\bin\IntranetIush.dll.config
+C:\Users\Jose\git\iush\IntranetIush\bin\IntranetIush.dll
+C:\Users\Jose\git\iush\IntranetIush\bin\IntranetIush.pdb
+C:\Users\Jose\git\iush\IntranetIush\obj\Debug\IntranetIush.dll
+C:\Users\Jose\git\iush\IntranetIush\obj\Debug\IntranetIush.pdb
