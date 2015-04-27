@@ -1,0 +1,25 @@
+{
+  "name": "IntranetIush",
+  "version": "1.0.0",
+  "homepage": "https://github.com/handark/iush",
+  "authors": [
+    "Carolina Ortega <lesliecaro85@gmail.com >"
+  ],
+  "description": "Intranet del Salazar y Herrera",
+  "main": "index",
+  "keywords": [
+    "iush",
+    "salazar",
+    "herrera"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.96.1"
+  }
+}
