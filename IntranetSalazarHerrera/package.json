@@ -1,0 +1,27 @@
+{
+  "name": "iush",
+  "version": "1.0.0",
+  "description": "Intranet Salazar y Herrera",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/handark/iush.git"
+  },
+  "keywords": [
+    "iush",
+    "salazar",
+    "herrera"
+  ],
+  "author": "Carolina Ortega <lesliecaro85@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/handark/iush/issues"
+  },
+  "homepage": "https://github.com/handark/iush",
+  "dependencies": {
+    "node-static": "^0.7.6"
+  }
+}

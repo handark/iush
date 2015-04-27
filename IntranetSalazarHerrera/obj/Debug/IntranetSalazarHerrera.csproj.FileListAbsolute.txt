@@ -1,0 +1,6 @@
+C:\Users\Jose\Documents\GitHub\iush\IntranetSalazarHerrera\bin\IntranetSalazarHerrera.dll.config
+C:\Users\Jose\Documents\GitHub\iush\IntranetSalazarHerrera\bin\IntranetSalazarHerrera.dll
+C:\Users\Jose\Documents\GitHub\iush\IntranetSalazarHerrera\bin\IntranetSalazarHerrera.pdb
+C:\Users\Jose\Documents\GitHub\iush\IntranetSalazarHerrera\obj\Debug\IntranetSalazarHerrera.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Documents\GitHub\iush\IntranetSalazarHerrera\obj\Debug\IntranetSalazarHerrera.dll
+C:\Users\Jose\Documents\GitHub\iush\IntranetSalazarHerrera\obj\Debug\IntranetSalazarHerrera.pdb
